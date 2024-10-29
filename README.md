@@ -1,8 +1,10 @@
-Kata FizzBuzz Java
-Requiered
+#Kata FizzBuzz Java
+
+#Requiered
 JDK 21
 JUnit
 Maven
+
 Dependencies
 Hamcrest
 JUnit 5
