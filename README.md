@@ -2,13 +2,14 @@
 
 #Requiered
 JDK 21
-JUnit
+JUnitgit a
 Maven
 
-Dependencies
+#Dependencies
 Hamcrest
 JUnit 5
-Exercise
+
+#Exercise
 Escribe un programa que imprima los números del 1 al 100:
 
 Aplica las siguientes normas:
